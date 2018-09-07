@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536305289774.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "594968288",
+    "id" : "92CA2D95",
+    "lastKnownWriteTime" : 1536305347,
+    "last_content_update" : 1536305347409,
+    "path" : "C:/Users/karti/Desktop/Hackathon/HostelManagement/server.r",
+    "project_path" : "server.r",
+    "properties" : {
+        "cursorPosition" : "0,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
