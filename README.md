@@ -1,4 +1,4 @@
-# IPECHackathonHostelManagement
+# IPEC Techathlon Hostel Management
 
 
 
